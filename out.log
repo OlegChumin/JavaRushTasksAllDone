@@ -9732,3 +9732,12 @@ java.lang.StringIndexOutOfBoundsException: begin -1, end 38, length 38
 2022-08-30 08:28:25 INFO  HttpsURLConnectionClient.getWebResourceAsStream(643) - responseCode = 200
 2022-08-30 08:28:26 INFO  HttpsURLConnectionClient.getFilteredTasks(256) - responseCode = 200
 2022-08-30 08:28:36 INFO  HttpsURLConnectionClient.getFilteredTasks(256) - responseCode = 200
+2022-08-30 08:34:30 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-08-30 08:39:26 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-08-30 08:39:26 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.58 ----------
+
+2022-08-30 08:39:26 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-30 08:39:26 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-30 08:39:26 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-08-30 08:39:26 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-08-30 08:39:26 INFO  ApacheHttpClient.startGA(36) - GAService started.
