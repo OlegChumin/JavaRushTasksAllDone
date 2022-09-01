@@ -3,4 +3,6 @@
 #############
 .idea/
 .idea
+out.log
+out.log.1
 *.iml
