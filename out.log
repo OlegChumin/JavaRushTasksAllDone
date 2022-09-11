@@ -15615,3 +15615,6 @@ java.lang.StringIndexOutOfBoundsException: begin -1, end 5, length 5
 2022-09-11 14:05:55 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2022-09-11 14:05:55 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2022-09-11 14:05:55 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-09-11 14:07:11 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-09-11 14:07:11 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
